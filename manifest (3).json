@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "牛马的日常",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "牛马日常",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
